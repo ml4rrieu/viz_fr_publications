@@ -28,7 +28,7 @@ A partir des données d’[Unpaywall](https://unpaywall.org/products/api). Ces d
 
 
 ### Comment l'identification des journaux suspects est-elle réalisée ? 
-A partir de la liste [stop predatory journals partagée sur Github](https://github.com/stop-predatory-journals/stop-predatory-journals.github.io). L'identification se fait avec les ISSNs : pour chaque titre de la liste les ISSNs _print_ et _electronic_ ont été obtenus avec l'API de Crossref. Attention néanmoins car la précédente liste n'est plus maintenue, prennez donc ces résultats avec circonspection.
+A partir de la liste [stop predatory journals partagée sur Github](https://github.com/stop-predatory-journals/stop-predatory-journals.github.io). L'identification se fait avec les ISSNs : pour chaque titre de la liste les ISSNs _print_ et _electronic_ ont été obtenus avec l'API de Crossref. Attention néanmoins car cette liste n'est plus maintenue, prennez donc ces résultats avec circonspection.
 
 
 ### Périmètre souhaité et outil utilisé 
