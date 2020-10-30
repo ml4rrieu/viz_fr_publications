@@ -32,6 +32,8 @@ A partir de la liste [stop predatory journals partagée sur Github](https://gith
 
 
 ### Périmètre souhaité et outil utilisé 
-Il faut distinguer le périmètre souhaité de celui couvert par l'outil utilisé. Le premier est rarement sinon jamais équivalent au second. Par exemple on aimerait mesurer l'exhaustivité des publications françaises, mais l'outil utilisé couvre les publications avec DOI. Cela étant dit, en considérant la diversité du paysage des publications françaises (penser au preprint, au chapitre d'ouvrage par ex.), il faut se rendre compte qu'aucun outil ne permet d'atteindre "l'exhaustivité". D'autre part, la solution apportée par le BSO est une des plus pertinente en ce qu'elle se passe des données des acteurs privés, en utilisant des données ouvertes et en les enrichissant avec des technologies de pointe.
-<br />
-Pour perfectionner l'outil, il serait souhaitable, pour une 2e version, d'intégrer les publications sans DOIs disponibles en accès ouvert dans HAL, avec au moins un auteur affilié à un établissement français.
+Il faut distinguer le périmètre souhaité de celui couvert par l'outil utilisé. Le premier est rarement, sinon jamais, équivalent au second. Par exemple on aimerait mesurer l'exhaustivité des publications françaises, mais l'outil utilisé couvre les publications avec DOI. Cela étant dit, en considérant la diversité du paysage des publications françaises (penser au preprint, au chapitre d'ouvrage par ex.), il faut se rendre compte qu'aucun outil ne permet d'atteindre "l'exhaustivité". D'autre part, la solution apportée par le BSO est une des plus pertinente en ce qu'elle se passe des données des acteurs privés, en utilisant des données ouvertes et en les enrichissant avec des technologies de pointe.
+<br /><br />
+
+### pour une v2
+Intégrer les publications sans DOIs disponibles en accès ouvert dans HAL, avec au moins un auteur affilié à un établissement français. <br />
