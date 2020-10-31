@@ -23,7 +23,7 @@ nombre publications : 154477<br />
 
 ## Méthodologie
 
-### Quelles sont les publications en compte ? 
+### Quelles sont les publications prises en compte ? 
 Les publications identifiées par le [Baromètre français de la Science Ouverte](https://ministeresuprecherche.github.io/bso) (BSO), dont le repérage est basé sur l’identification du pays des affiliations des auteurs. Les bases sources utilisées par le BSO pour trouver ces publications sont Crossref et Hal. Seules les publications avec DOI (de Crossref) sont incluses. <br />
 
 
