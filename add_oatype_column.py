@@ -35,7 +35,7 @@ for index, row in df.iterrows():
 		treated = True	
 
 	if row['repo'] > 0 and row['j_is_oa'] == 0 : 
-		oaType.append(4) #archive only
+		oaType.append(4) #archive and j is not oa
 		treated = True	
 
 	if row['repo'] > 0 and row['j_is_oa'] == 1 : 

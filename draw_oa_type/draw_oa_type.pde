@@ -10,10 +10,10 @@ void setup() {
   background(240);
   int margin = 5;
 
-  table = loadTable("../test.csv", "header");
+  table = loadTable("../data/2018_FR_Doi_oatype_202010.csv", "header");
   allpub = table.getRowCount();
 
-  items.add(new Type("archive", 4, #665191, "archive only"));
+  items.add(new Type("archive", 4, #665191, "archive and not OA journal"));
   items.add(new Type("archivePlusJournal", 5, #a05195, "archive plus OA journal"));
   items.add(new Type("journalOnly", 6, #d45287, "OA journal only"));
   items.add(new Type("hybrid", 3, #ff7c43, "not OA journal but licence"));
@@ -38,7 +38,6 @@ void setup() {
   println("publi concernés", sum);
   println('\n');
   for (Type me : items) me.printVal();
-  exit();
 }
 
 void draw() {
@@ -66,5 +65,5 @@ void draw() {
   textSize(200); 
   fill(255, 40); 
   text("2018", width/2, 2.0/3*height);
-  save("oatype2018_v2.png");
+  save("oatype2018.png");
 }
