@@ -10,7 +10,7 @@ void setup() {
   background(240);
   int margin = 5;
 
-  table = loadTable("../data/2018_FR_Doi_oatype_202010.csv", "header");
+  table = loadTable("../../data/2018_FR_Doi_oatype_202010.csv", "header");
   allpub = table.getRowCount();
 
   items.add(new Type("archive", 4, #665191, "archive and not OA journal"));
