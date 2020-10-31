@@ -15,10 +15,13 @@ publications dans journaux suspects : 536<br />
 publications en accès fermé : 76490<br/>
 nombre publications : 154477<br />
 
-
-![2018 FR publisher](img/publisher_2018.png)
 ## 35 premiers publishers des publications fr de 2018
+![2018 FR publisher](img/publisher_2018.png)
 
+<br/>
+<br/>
+<br/>
+<br/>
 ## Méthodologie
 
 ### Quelles sont les publications en compte ? 
