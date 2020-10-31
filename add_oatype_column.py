@@ -26,6 +26,7 @@ for index, row in df.iterrows():
 		treated = True
 		continue
 
+	# traitement ac upw data
 	if row['repo'] == 0 and row['j_is_oa'] == 0 and pd.isnull(row['licence']) == True : 
 		oaType.append(2) #bronz (and no archive)
 		treated = True	
