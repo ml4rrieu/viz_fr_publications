@@ -11,7 +11,7 @@ publications dans archive ouverte & dans un journal open access : 18679<br />
 publications hors archive ouverte & dans un journal open access : 5211<br />
 publications hors archive ouverte & journal non open access mais avec licence ouverte : 5040<br />
 publications hors archive ouverte & journal non open access & sans licence ouverte : 8167<br />
-publications dans journaux suspects : 436<br />
+publications dans journaux suspects : 536<br />
 publications en accès fermé : 76490<br/>
 nombre publications : 154477<br />
 

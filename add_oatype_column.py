@@ -10,13 +10,13 @@ oaType = []
 for index, row in df.iterrows(): 
 
 	treated = False
-	if row['hal_coverage'] !='file' and row['upw_coverage'] != 'oa' : 
-		oaType.append(0)
+	if row['j_is_suspicious'] == 1 : 
+		oaType.append(1)
 		treated = True
 		continue
 
-	if row['j_is_suspicious'] == 1 : 
-		oaType.append(1)
+	if row['hal_coverage'] !='file' and row['upw_coverage'] != 'oa' : 
+		oaType.append(0)
 		treated = True
 		continue
 
