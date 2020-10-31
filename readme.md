@@ -1,7 +1,5 @@
-![2018 FR OA type](img/oa_type_2018.png)
-
 ## Type d'accès ouvert des publications françaises de 2018 avec DOI
-
+![2018 FR OA type](img/oa_type_2018.png)
 ![legend](img/legend.png)
 
 ## Résultats bruts
@@ -22,6 +20,7 @@ nombre publications : 154477<br />
 <br/>
 <br/>
 <br/>
+
 ## Méthodologie
 
 ### Quelles sont les publications en compte ? 
