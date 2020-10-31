@@ -2,7 +2,7 @@
 ![2018 FR OA type](img/oa_type_2018.png)
 ![legend](img/legend.png)
 
-## Résultats bruts
+#### Résultats bruts
 
 publications dans archive ouverte & journal non open access : 40454<br />
 publications dans archive ouverte & dans un journal open access : 18679<br />
