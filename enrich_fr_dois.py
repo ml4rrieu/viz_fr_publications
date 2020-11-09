@@ -3,7 +3,7 @@ import requests, json, csv
 reuse fr doi identified in barometre français science ouverte
 https://ministeresuprecherche.github.io/bso
 
-and enrich them w crossref, hal and unpawall data
+and enrich them w crossref, hal and unpaywall data
 M. Larrieu
 CC BY
 2020 10
