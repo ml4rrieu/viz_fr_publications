@@ -140,7 +140,7 @@ with open("open-access-monitor-france.csv", 'r', newline='', encoding='utf-8') a
 			# __3__ retrieve unpaywall data
 			found = False
 			while not found : 
-				req = requests.get(f"https://api.unpaywall.org/v2/{doi}?email=m@larri.eu")	
+				req = requests.get(f"https://api.unpaywall.org/v2/{doi}?email=your@email")	
 				try : 
 					res = req.json()
 					found = True
